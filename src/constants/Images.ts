@@ -1,0 +1,18 @@
+export const AllImages = {
+  profileIcon: require('../assets/icons/Group61.png'),
+  notification: require('../assets/icons/Group12544.png'),
+  logout: require('../assets/icons/Frame12282.png'),
+  clock: require('../assets/icons/Clock.png'),
+  gold: require('../assets/icons/25498.png'),
+  badgeIcon: require('../assets/icons/Group12664.png'),
+  bitcoin: require('../assets/icons/Group12375.png'),
+  iIcon: require('../assets/icons/Group12379.png'),
+  greenUp: require('../assets/icons/Group12234.png'),
+  redDown: require('../assets/icons/Group12233.png'),
+  upArrow: require('../assets/icons/Fill6.png'),
+  downArrow: require('../assets/icons/Fill5.png'),
+  star: require('../assets/icons/Star1.png'),
+  playerIcon: require('../assets/icons/Vector.png'),
+  graphIcon: require('../assets/icons/Vector1.png'),
+  leftProfileIcon: require('../assets/icons/Group12465.png'),
+};

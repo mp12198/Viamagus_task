@@ -1,0 +1,15 @@
+export const Colors = {
+  darkPurple: '#452C55',
+  lightPurple: '#6231AD',
+  barLightPink: '#FE4190',
+  barLightgreen: '#2DABAD',
+  grayText: '#727682',
+  primaryText: '#333333',
+  purpleText: '#D2BAF5',
+  white: '#FFFFFF',
+  offWhite: '#EEEAF3',
+  offIconColor: '#a4a4a4',
+  purpleOffShade: '#EEEAF3',
+  gold: '#FFA600',
+  green: '#03A67F',
+};
